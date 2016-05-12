@@ -5,7 +5,7 @@
         jar="/home/thushara/AndroidStudioProjects/RockPaperCissor/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="22655bca9bd2903a17cc7c805a72509ebd9390b8">
+        sha1="ab0c40df32d91f8374c577e4d2067771148bdd9c">
         <dex dex="/home/thushara/AndroidStudioProjects/RockPaperCissor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4570deed79b2673c985fbf6b23fd74e3170a9326/classes.dex" />
     </item>
     <item
@@ -16,11 +16,25 @@
         <dex dex="/home/thushara/AndroidStudioProjects/RockPaperCissor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_6ead5a0172023bf22ebed7cdce084057b97ee77d/classes.dex" />
     </item>
     <item
+        jar="/home/thushara/AndroidStudioProjects/RockPaperCissor/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="04d9c3af058b67b8ccec189f5e0b05f440860473">
+        <dex dex="/home/thushara/AndroidStudioProjects/RockPaperCissor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_791abaf15460fee6e45274aae98ebdc665d8e163/classes.dex" />
+    </item>
+    <item
         jar="/home/thushara/AndroidStudioProjects/RockPaperCissor/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
         <dex dex="/home/thushara/AndroidStudioProjects/RockPaperCissor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_14cfcce990693ba82b4b7fab413d2f457266dcea/classes.dex" />
+    </item>
+    <item
+        jar="/home/thushara/AndroidStudioProjects/RockPaperCissor/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/thushara/AndroidStudioProjects/RockPaperCissor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_b478345990bcccc2a34fef593bdffdb597c26d11/classes.dex" />
     </item>
     <item
         jar="/home/thushara/AndroidStudioProjects/RockPaperCissor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
@@ -37,27 +51,6 @@
         <dex dex="/home/thushara/AndroidStudioProjects/RockPaperCissor/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_a916e053550752c6fa15ab48cc5b697ee2d318db/classes.dex" />
     </item>
     <item
-        jar="/home/thushara/AndroidStudioProjects/RockPaperCissor/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
-        <dex dex="/home/thushara/AndroidStudioProjects/RockPaperCissor/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_3c1b49245f617bb9bade55bd96652c0bb325b8f5/classes.dex" />
-    </item>
-    <item
-        jar="/home/thushara/AndroidStudioProjects/RockPaperCissor/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="ad53333928d7fb095ded4fab344db76b4837bea7">
-        <dex dex="/home/thushara/AndroidStudioProjects/RockPaperCissor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_791abaf15460fee6e45274aae98ebdc665d8e163/classes.dex" />
-    </item>
-    <item
-        jar="/home/thushara/AndroidStudioProjects/RockPaperCissor/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
-        <dex dex="/home/thushara/AndroidStudioProjects/RockPaperCissor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_b478345990bcccc2a34fef593bdffdb597c26d11/classes.dex" />
-    </item>
-    <item
         jar="/home/thushara/AndroidStudioProjects/RockPaperCissor/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
         jumboMode="true"
         revision="23.0.3"
@@ -70,6 +63,13 @@
         revision="23.0.3"
         sha1="debf30ce0a7560396b6235edef77e447006454c2">
         <dex dex="/home/thushara/AndroidStudioProjects/RockPaperCissor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_31f12ce6369e9f02aad1398960960b54253e13f9/classes.dex" />
+    </item>
+    <item
+        jar="/home/thushara/AndroidStudioProjects/RockPaperCissor/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/thushara/AndroidStudioProjects/RockPaperCissor/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_3c1b49245f617bb9bade55bd96652c0bb325b8f5/classes.dex" />
     </item>
 
 </items>
